@@ -1,0 +1,12 @@
+
+public class Dikdortgen {
+	private double en, boy;
+	public double DikdortgenAlani() {
+		return en*boy;
+	}
+	
+	
+
+
+
+}

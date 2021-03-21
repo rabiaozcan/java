@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/home/rabiaozcan/Masaüstü/java/.metadata/.plugins/org.eclipse.jdt.core
+3680701396.index
+397372790.index
+507521724.index

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;dikdörtgen(kapsulleme)&apos;" deleteContents="false" description="Delete resource &apos;dikdörtgen(kapsulleme)&apos;" element1="/dikdörtgen(kapsulleme)" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1616265686699"/>
+</session>

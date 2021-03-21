@@ -1,0 +1,19 @@
+//Dikdörtgen hesabı yaptığımız örneğimizi gönderilen parametrenin 
+/*negatif olması durumunu denetleyen ve bu durumda sıfır atayan bir kısıtı getter
+ * ve setter yöntemleri ile ekleyiniz.
+ */
+public class KapsullemeOdev1 {
+
+	public static void main(String[] args) {
+		DikdortgenKapsulleme dd1 = new DikdortgenKapsulleme();
+		//dd1.en=5.0;
+		//dd1.boy=10.0;
+		dd1.setEn(5.0);
+		dd1.setBoy(10.0);
+		System.out.println("Dikdörtgenin alanı:"+dd1.DikdortgenAlani());
+		System.out.println("En değişkeni:"+dd1.getEn());
+		System.out.println("Boy değişkeni:"+dd1.getBoy());
+
+	}
+
+}
